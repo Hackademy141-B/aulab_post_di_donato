@@ -43,7 +43,7 @@
               class="form-label"
             >Email:</label>
             <input
-              name="emai]"
+              name="email"
               type="email"
               class="form-control"
               id="email"

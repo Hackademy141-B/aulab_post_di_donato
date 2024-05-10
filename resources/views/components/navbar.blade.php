@@ -21,12 +21,7 @@
     @endguest
       </li>
 
-    @auth
-    <li class="nav-item">
-    <a class="nav-link" href="{{route('article.create')}}">Inserisci un articolo</a>
-</li>
 
-    @endauth
 
 
 
